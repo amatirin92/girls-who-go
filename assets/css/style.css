@@ -384,6 +384,12 @@ header nav li:last-child {
     margin-bottom: 0;
 }
 
+.reviews img {
+    width: 100px;
+    height: 100px;
+    
+}
+
 @media (max-width: 1000px) {
     .reviews .quote {
         font-size: 20px;
